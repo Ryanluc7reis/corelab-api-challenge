@@ -9,7 +9,7 @@ Essa aplicação foi contruída com NodeJs e Express. A aplicação te oferece u
 
 - O frontend e backend foram hospedado na vercel.
 
-- Link do projeto em produção --> [CoreNotes projeto](https://corelab-web-challenge-ryanlucas.vercel.app/)
+- Link do projeto em produção --> [GambNotes projeto](https://corelab-web-challenge-ryanlucas.vercel.app/)
 
   #### **[O projeto em produção não disponibiliza a funcionabilidade de anexar arquivos!!!]**
 
